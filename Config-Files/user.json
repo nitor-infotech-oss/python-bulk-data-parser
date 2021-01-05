@@ -1,0 +1,34 @@
+{
+    "display_name" : {
+        "singular" : "User",
+        "plural" : "Users"
+    },
+    "has_dependent_fields": true,
+    "fields" : {
+        "First Name":"first_name",
+        "Middle Name":"middle_name",
+        "No Middle Name":"no_middle_name",
+        "Last Name":"last_name",
+        "Address":"address",
+        "City":"city",
+        "Province":"state",
+        "Postal Code":"zip",  
+        "Clock-In":"clock_in", 
+        "Home Phone":"home_phone",
+        "Mobile Phone":"mobile_phone",
+        "Work Phone":"work_phone",
+        "Email":"email",
+        "Timezone":"timezone",
+        "Charge Tax":"charge_tax",
+        "Enable Login":"is_authorized"
+    },
+    "required": [
+        "First Name",
+        "Last Name"
+    ],
+    "boolean" : [ 
+        "No Middle Name",
+        "Clock-In",
+        "Charge Tax"
+    ]
+}

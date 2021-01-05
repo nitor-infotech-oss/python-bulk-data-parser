@@ -1,0 +1,25 @@
+Project Name,Project Type,Technology,Stakeholder,Manager,Start Date,End Date,Errors
+Project 2,,Tech 2,Stakeholder2,Manager2,2/1/20,2/1/21,Missing required columns data : Project Type
+Project 3,,Tech 3,Stakeholder3,Manager3,3/1/20,3/1/21,Missing required columns data : Project Type
+Project 4,,Tech 4,Stakeholder4,Manager4,4/1/20,4/1/21,Missing required columns data : Project Type
+Project 5,,Tech 5,Stakeholder5,Manager5,5/1/20,5/1/21,Missing required columns data : Project Type
+Project 6,,Tech 6,Stakeholder6,Manager6,6/1/20,6/1/21,Missing required columns data : Project Type
+Project 7,,Tech 7,Stakeholder7,Manager7,7/1/20,7/1/21,Missing required columns data : Project Type
+Project 8,,Tech 8,Stakeholder8,Manager8,8/1/20,8/1/21,Missing required columns data : Project Type
+Project 9,,Tech 9,Stakeholder9,Manager9,9/1/20,9/1/21,Missing required columns data : Project Type
+Project 10,,Tech 10,Stakeholder10,Manager10,,10/1/21,"Missing required columns data : Project Type, Start Date"
+Project 11,,Tech 11,Stakeholder11,Manager11,,11/1/21,"Missing required columns data : Project Type, Start Date"
+Project 12,,Tech 12,Stakeholder12,Manager12,,12/1/21,"Missing required columns data : Project Type, Start Date"
+Project 13,Type 13,Tech 13,Stakeholder13,Manager13,,13/1/21,Missing required columns data : Start Date
+,Type 16,Tech 16,Stakeholder16,Manager16,16/1/20,16/1/21,Missing required columns data : Project Name
+,Type 17,Tech 17,Stakeholder17,Manager17,17/1/20,17/1/21,Missing required columns data : Project Name
+Project 19,Type 19,Tech 19,Stakeholder19,Manager19,,19/1/21,Missing required columns data : Start Date
+Project 20,Type 20,Tech 20,Stakeholder20,Manager20,,20/1/21,Missing required columns data : Start Date
+Project 21,Type 21,Tech 21,Stakeholder21,Manager21,,21/1/21,Missing required columns data : Start Date
+Project 22,Type 22,Tech 22,Stakeholder22,Manager22,,22/1/21,Missing required columns data : Start Date
+Project 26,,Tech 26,Stakeholder26,Manager26,26/1/20,26/1/21,Missing required columns data : Project Type
+Project 27,,Tech 27,Stakeholder27,Manager27,27/1/20,27/1/21,Missing required columns data : Project Type
+Project 28,,Tech 28,Stakeholder28,Manager28,28/1/20,28/1/21,Missing required columns data : Project Type
+Project 29,,Tech 29,Stakeholder29,Manager29,29/1/20,29/1/21,Missing required columns data : Project Type
+,Type 32,Tech 32,Stakeholder32,Manager32,1/2/20,1/2/21,Missing required columns data : Project Name
+,Type 33,Tech 33,Stakeholder33,Manager33,2/2/20,2/2/21,Missing required columns data : Project Name
